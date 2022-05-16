@@ -1,0 +1,5 @@
+﻿  WAVDownSampler.cpp
+c:\users\sarthaks\source\repos\wavdownsampler\wavdownsampler\wavdownsampler.cpp(89): warning C4244: 'initializing': conversion from 'std::streamoff' to 'uint32_t', possible loss of data
+c:\users\sarthaks\source\repos\wavdownsampler\wavdownsampler\wavdownsampler.cpp(90): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+c:\users\sarthaks\source\repos\wavdownsampler\wavdownsampler\wavdownsampler.cpp(102): warning C4018: '<': signed/unsigned mismatch
+  WAVDownSampler.vcxproj -> C:\Users\sarthaks\source\repos\WAVDownSampler\Debug\WAVDownSampler.exe
